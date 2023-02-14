@@ -60,7 +60,7 @@ namespace PackageCheckIn.Classes
                     Console.WriteLine("The user with that name has no packages");
                 }
             }
-            //In the case that the user with that is not found
+            //In the case that the user with that name is not found
             else
             {
                 Console.WriteLine("User with that name was not found, check for inacuriecies in your typing");
