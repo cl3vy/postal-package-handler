@@ -25,8 +25,6 @@ namespace PackageCheckIn.Classes
             //Check if the list of all packages is not empty
             if (AllPackages().Count != 0)
             {
-                Console.WriteLine("There are no packages");
-
                 //Iterating through every package
                 foreach (Package package in AllPackages())
                 {
