@@ -97,7 +97,7 @@ namespace PackageCheckIn.Classes
                 }
             }
             //If the check is false it means package was not found
-            if (check == false)
+            if (!check)
             {
                 Console.WriteLine("That package was not found");
             }
