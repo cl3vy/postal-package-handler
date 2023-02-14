@@ -129,7 +129,7 @@ namespace PackageCheckIn.Classes
 
         public static void DeleteAllPackages()
         {
-            int counter = 0;
+            bool check = false;
             //Iterate through each user in isers
             foreach (User user in users)
             {
@@ -138,7 +138,7 @@ namespace PackageCheckIn.Classes
                 {
                     //Remove package from the users list of packages
                     user.packages.Remove(user.packages[i]);
-                    counter++;
+                    check = true;
                 }
             }
             //Iterate through each package in allPackages
@@ -146,9 +146,9 @@ namespace PackageCheckIn.Classes
             {
                 //Remove every package
                 allPackages.Remove(allPackages[i]);
-                counter++;
+                check = true;
             }
-            if (counter == 0)
+            if (!check)
             {
                 Console.WriteLine("There are no packages to delete");
             }
