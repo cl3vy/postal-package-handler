@@ -1,0 +1,15 @@
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\PackageCheckIn.csproj.AssemblyReference.cache
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\PackageCheckIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\PackageCheckIn.AssemblyInfoInputs.cache
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\PackageCheckIn.AssemblyInfo.cs
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\PackageCheckIn.csproj.CoreCompileInputs.cache
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\bin\Debug\net6.0\PackageCheckIn.exe
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\bin\Debug\net6.0\PackageCheckIn.deps.json
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\bin\Debug\net6.0\PackageCheckIn.runtimeconfig.json
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\bin\Debug\net6.0\PackageCheckIn.dll
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\bin\Debug\net6.0\PackageCheckIn.pdb
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\PackageCheckIn.dll
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\refint\PackageCheckIn.dll
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\PackageCheckIn.pdb
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\PackageCheckIn.genruntimeconfig.cache
+C:\Users\k.dervishi\Desktop\Logical\HandlingExceptions\PackageCheckIn\obj\Debug\net6.0\ref\PackageCheckIn.dll
